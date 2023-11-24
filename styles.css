@@ -4,20 +4,17 @@ body{
 }
 .WebpageLayout{
 	display:flex;
-/* 	text-align:center; */
 	justify-content:space-between;
 	flex-direction:row;
 }
 .header{
 	background-color:#011e29;
-	display:flex;
-	justify-content:center;
+	text-align:center;
 	padding:8px;
 }
 .latest-news-section{
 	background-color:;
 	padding:12px;
-/* 	width:250px: */
 }
 .pictorial-news-section{
 	text-align:center;
